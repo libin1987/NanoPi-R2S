@@ -1,3 +1,4 @@
+## 20200513
 ## 20200509
 * 修正 Clash 二进制文件权限
 * 修正 luci-app-clash 在 menuconfig 的分类
